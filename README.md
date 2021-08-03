@@ -5,7 +5,7 @@ Html, CSS, JavaScript, ReactJS e buscando mais conhecimento
 
 - 💞
 - 📫 How to reach me ..
-por  e-mail: vinciushtsilva@gmail.com ou linkdlin :https://www.linkedin.com/in/vinicius-henrique-5b314b195/
+por  e-mail: vinciushtsilva@gmail.com ou linkdln: https://www.linkedin.com/in/vinicius-henrique-5b314b195/
 
 <!---
 ViniciusHTSilva/ViniciusHTSilva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
