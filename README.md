@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning 
 Html, CSS, JavaScript, ReactJS e buscando mais conhecimento
 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞
+- 📫 How to reach me ..
 por  e-mail: vinciushtsilva@gmail.com ou linkdlin :https://www.linkedin.com/in/vinicius-henrique-5b314b195/
 
 <!---
